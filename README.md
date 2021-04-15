@@ -4,6 +4,4 @@
 An eager student ready to dive into web development/software development. Self-motivated to learn new technologies and grow as a student. Currently attending the University of British Columbia pursuing a bachelors in computer science.
 
 ### Visit me at: 🌎
- - https://mathewdevin.com
- - https://www.linkedin.com/in/mathew-de-vin/
- - https://www.instagram.com/mathew_dv/
+https://mathewdevin.com • [linked in](https://www.linkedin.com/in/mathew-de-vin/) • [instagram](https://www.instagram.com/mathew_dv/)
